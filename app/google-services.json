@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "234257743229",
+    "project_id": "crudparcial-8c140",
+    "storage_bucket": "crudparcial-8c140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234257743229:android:ae53c12e4f6fee0bdc2014",
+        "android_client_info": {
+          "package_name": "app.crudparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234257743229-lgbj9rhmakv3neqr3hs5rdtdq60cfstm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.crudparcial",
+            "certificate_hash": "5c9802c7b6f1da67e9b481b2cad10e93835b5336"
+          }
+        },
+        {
+          "client_id": "234257743229-sn92kgmtd46oqnnijgbul7tbndaeftn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGApt_LS0OvKW9Q9nqtdSdMK1uaqrD7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234257743229-sn92kgmtd46oqnnijgbul7tbndaeftn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
