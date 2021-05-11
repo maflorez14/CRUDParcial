@@ -78,11 +78,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void getGeneroPer(String gene) {
 
-        Toast.makeText(this, gene, Toast.LENGTH_LONG).show();
-
-        if(gene == "Masculino"){
+        if(gene.equals("Masculino")){
             opc1.setChecked(true);
-        }else if(gene == "Femenino"){
+        }else if(gene.equals("Femenino")){
             opc2.setChecked(true);
         }else{
             opc3.setChecked(true);
